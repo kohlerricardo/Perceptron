@@ -94,5 +94,5 @@ def main():
 
 if __name__ == '__main__':
     if(len(sys.argv)!=6):
-        exit("Use python3 perceptron.py <amostras> <escala> <stride> <peso1> <peso2>")
+        exit("Use python perceptron.py <amostras> <escala> <stride> <peso1> <peso2>")
     main()
